@@ -142,3 +142,4 @@ if [ -f /home/asuha/.local/bin/virtualenvwrapper.sh ]; then
 fi
 
 export GPG_TTY=$(tty)
+export PATH=$PATH:/usr/local/go/bin
